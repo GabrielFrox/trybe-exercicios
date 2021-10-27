@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(93, 62, 93);
+}
+
+.card {
+  background-color: rgb(187, 187, 187);
+  width: 40%;
+  margin: 10px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px rgb(49, 33, 49);
+}
+
+.footer {
+  background-color: rgb(38, 96, 98);
+  padding-bottom: 100%;
+  padding-top: 10%;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 6px blue;
+}
